@@ -283,3 +283,5 @@ yform_will_set_to = will be
 yform_field_add = Add field
 yform_field_update = Update field
 yform_field_db_type = Database field type
+
+yform_structure_article_could_not_be_deleted = Der Artikel konnte nicht gelöscht werden, da er von folgenden Datensätzen verwendet wird:
